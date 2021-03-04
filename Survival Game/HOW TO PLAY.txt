@@ -1,0 +1,8 @@
+A Survival Game
+
+Purpose of this game is to collect all of vital items . Vital items are food, water and firewood.
+You have three class for our hero. classes are samurai, archer and knight.
+the stats are damage, armor and money . and stats varies for each class.
+You have five place. Places are safe house, river, forest, cave and store.
+You must fight to enemies (zombie, vampire and bear) in river, forest or store. and you must collect a vital item. if you can collect all of vital items you win.
+You can buy items in store with our money. items makes you more powerful.
